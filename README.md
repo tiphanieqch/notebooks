@@ -10,7 +10,7 @@ Welcome to the official **atoti** notebooks gallery!
 
 #### By use case
 
-[customer churn](#customer-churn), [drug testing](#drug-testing), [guides](#guides), [inventory management](#inventory-management), [margin optimization](#margin-optimization) [pricing strategy](#pricing-strategy), [product classification](#product-classification), [regtech](#regtech), [return forecasting](#return-forecasting), [risk management](#risk-management), [sentiment analysis](#sentiment-analysis), [supply chain](#supply-chain), [topic analysis](#topic-analysis), [trading](#trading)
+[customer churn](#customer-churn), [drug testing](#drug-testing), [guides](#guides), [inventory management](#inventory-management), [margin optimization](#margin-optimization) [pricing strategy](#pricing-strategy), [product classification](#product-classification), [regtech](#regtech), [return forecasting](#return-forecasting), [risk management](#risk-management), [rule what-if](#rule-what-if), [sentiment analysis](#sentiment-analysis), [supply chain](#supply-chain), [topic analysis](#topic-analysis), [trading](#trading)
 
 #### By atoti features
 
@@ -28,6 +28,7 @@ Welcome to the official **atoti** notebooks gallery!
 | <sub>[Customer Churns](./notebooks/customer-churn/main.ipynb)</sub>                                                        | <sub>telco</sub>                      | <sub>customer churn</sub>                                                 | <sub>model comparison</sub>   | <sub>bayes, SVM, logistic regression</sub>             |
 | <sub>[Food processing](./notebooks/food-processing/main.ipynb)</sub>                                                       | <sub>food processing</sub>            | <sub>inventory management, supply chain</sub>                             | <sub>vector aggregation</sub> | <sub>time series forecasting, neural network</sub>     |
 | <sub>[Forecasting Cryptocurrency returns with Twitter sentiment](./notebooks/twitter/main.ipynb)</sub>                     | <sub>social media</sub>               | <sub>sentiment analysis, return forecasting</sub>                         |                               | <sub>time series forecasting, hypothesis testing</sub> |
+| <sub>[Formula one](./notebooks/formula-one/main.ipynb)</sub>                                                               | <sub>sport</sub>                      | <sub>rule what-if</sub>                                                   |                               |                                                        |
 | <sub>[FRTB SBM](./notebooks/sbm/main.ipynb)</sub>                                                                          | <sub>finance</sub>                    | <sub>regtech</sub>                                                        |                               |                                                        |
 | <sub>[GeoPricing](./notebooks/geopricing/main.ipynb)</sub>                                                                 | <sub>retail</sub>                     | <sub>pricing strategy, product classification, margin optimization </sub> |                               | <sub>k-means clustering</sub>                          |
 | <sub>[Interactive hypothesis testing for anti-anxiety medicine](./notebooks/drug-efficacy/main.ipynb)</sub>                | <sub>pharmaceutical, healthcare</sub> | <sub>drug testing</sub>                                                   |                               | <sub>hypothesis testing, statistics</sub>              |
@@ -98,6 +99,7 @@ By opening an issue or a pull request, you agree with atoti's [terms of use](htt
 
 ##### sport
 
+- [Formula one](./notebooks/formula-one/main.ipynb)
 - [Video assistant referee impact in soccer premier league](./notebooks/var-impact-in-premier-league/main.ipynb)
 
 ##### telco
@@ -155,6 +157,11 @@ By opening an issue or a pull request, you agree with atoti's [terms of use](htt
 - [SA-CCR](./notebooks/sa-ccr/main.ipynb)
 - [Stressed VaR Calibration](./notebooks/stressed-var-calibration/main.ipynb)
 - [Value at Risk](./notebooks/value-at-risk/main.ipynb)
+
+##### rule what-if
+
+- [Formula one](./notebooks/formula-one/main.ipynb)
+- [Video assistant referee impact in soccer premier league](./notebooks/var-impact-in-premier-league/main.ipynb)
 
 ##### supply chain
 
